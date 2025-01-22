@@ -312,8 +312,8 @@ header
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #ed563b;
-  color: #fff;
+  background-color: #a6ed45;
+  color: #003023;
   text-align: center;
   font-weight: 400;
   letter-spacing: 0px;
@@ -324,13 +324,13 @@ header
 }
 
 .header-area .main-nav .nav li:last-child a:hover {
-  background-color: #f9735b;
+  background-color: #a6ed45;
   opacity: 1;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #ed563b!important;
+  color: #a6ed45!important;
   opacity: 1;
 }
 
@@ -479,7 +479,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #ed563b!important;
+    color: #38b23d !important;
     opacity: 1;
   }
   .header-area {
@@ -550,7 +550,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #ed563b!important;
+    color: #38b23d!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
