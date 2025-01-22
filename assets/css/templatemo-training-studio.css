@@ -516,7 +516,7 @@ header
   }
   .header-area .main-nav .nav li:last-child {
     width: 100%;
-    background-color: #ed563b;
+    background-color: #003023;
     color: #fff;
   }
   .header-area .main-nav .nav li:last-child a {
@@ -524,7 +524,7 @@ header
   }
   .header-area .main-nav .nav li:last-child a:hover,
   .header-area .main-nav .nav li:last-child:hover a {
-    background-color: #ed563b!important;
+    background-color: #003023 !important;
     color: #fff!important;
   }
   .header-area.header-sticky .nav {
@@ -540,7 +540,7 @@ header
   .header-area .main-nav .nav li a {
     height: 50px !important;
     line-height: 50px !important;
-    padding: 0px !important;
+    padding: 0px 11px !important;
     border: none !important;
     background: #f7f7f7 !important;
     color: #232d39 !important;
